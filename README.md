@@ -47,7 +47,7 @@ python main.py --annotation-path /path/to/annotations --data-path /path/to/data 
 ### Output directory structure
 
 ```text
-.
+/path/to/output
 ├── test
 │   ├── <video_name>_<*>.jpg
 │   ├── <video_name>_<*>.txt
